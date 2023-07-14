@@ -1,8 +1,0 @@
-# Ignore everything
-/*
-
-# EXCEPT
-!.gitignore
-!User/snippets
-!User/keybindings.json
-!User/settings.json
