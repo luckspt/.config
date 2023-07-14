@@ -1,0 +1,12 @@
+# Ignore everythig
+/*
+
+# Ignore logs
+**.log
+
+# EXCEPT!!!!!
+!.gitignore
+# 
+
+# Vscode
+!Code/
