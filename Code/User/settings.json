@@ -1,0 +1,43 @@
+{
+	"workbench.iconTheme": "vscode-icons",
+	"editor.inlineSuggest.enabled": true,
+	"git.autofetch": true,
+	"github.copilot.enable": {
+		"*": true,
+		"plaintext": true,
+		"markdown": true,
+		"scminput": false,
+		"yaml": true,
+		"typescript": true
+	},
+	"[json]": {
+		"editor.defaultFormatter": "vscode.json-language-features"
+	},
+	"[yaml]": {
+		"editor.defaultFormatter": "redhat.vscode-yaml"
+	},
+	"[yml]": {
+		"editor.defaultFormatter": "redhat.vscode-yaml"
+	},
+	"[python]": {
+		"editor.formatOnType": true,
+		"editor.defaultFormatter": "ms-python.black-formatter"
+	},
+	"[typescript]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features"
+	},
+	"vsicons.dontShowNewVersionMessage": true,
+	"githubPullRequests.createOnPublishBranch": "never",
+	"[vue]": {
+		"gitlens.codeLens.scopes": [
+			"document"
+		]
+	},
+	"diffEditor.ignoreTrimWhitespace": false,
+	"workbench.colorTheme": "Visual Studio Dark",
+	"githubPullRequests.pullBranch": "never",
+	"python.formatting.provider": "none",
+	"editor.minimap.renderCharacters": false,
+	"editor.minimap.scale": 3,
+	"editor.minimap.autohide": true
+}
